@@ -17,4 +17,5 @@ public abstract class Bank {
 		System.out.println("Loan = " + loan);
 		System.out.println("Balance = " + balance);
 	}
+
 }

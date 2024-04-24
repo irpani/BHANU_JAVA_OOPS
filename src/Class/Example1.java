@@ -13,10 +13,6 @@ public class Example1 extends Object {
 		this.age = age;
 	}
 
-	public static void setAge1(int age) {
-
-	}
-
 	public static void main(String... xyx) {
 		Example1 obj1 = new Example1();
 
@@ -32,7 +28,7 @@ public class Example1 extends Object {
 		obj2.getAge();
 		System.out.println(obj2.getAge());
 
-		Example1.setAge1(4);
+		// Example1.setAge(4);
 
 	}
 
